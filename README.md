@@ -1,2 +1,0 @@
-# WoocommerceFunctions
-WoocommerceFunctions
